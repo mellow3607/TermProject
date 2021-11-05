@@ -1,4 +1,4 @@
-from pico2d import *
+'''from pico2d import *
 
 
 
@@ -110,3 +110,4 @@ while running :
     delay(0.01)
 
 close_canvas()
+'''
